@@ -1,0 +1,7 @@
+D:\SQL2022\Nguyen Vo Anh Kiet\Lab1\lab1\lab1\bin\Debug\lab1.exe.config
+D:\SQL2022\Nguyen Vo Anh Kiet\Lab1\lab1\lab1\bin\Debug\lab1.exe
+D:\SQL2022\Nguyen Vo Anh Kiet\Lab1\lab1\lab1\bin\Debug\lab1.pdb
+D:\SQL2022\Nguyen Vo Anh Kiet\Lab1\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\SQL2022\Nguyen Vo Anh Kiet\Lab1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\SQL2022\Nguyen Vo Anh Kiet\Lab1\lab1\lab1\obj\Debug\lab1.exe
+D:\SQL2022\Nguyen Vo Anh Kiet\Lab1\lab1\lab1\obj\Debug\lab1.pdb
